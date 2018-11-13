@@ -1,0 +1,30 @@
+{
+  "name": "git-commit-to-changelog",
+  "version": "1.0.0",
+  "description": "This's inspired by Angular community.",
+  "main": "index.js",
+  "scripts": {
+    "commit": "npm run ci",
+    "ci": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongsp/git-commit-to-changelog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongsp/git-commit-to-changelog/issues"
+  },
+  "homepage": "https://github.com/zhongsp/git-commit-to-changelog#readme",
+  "devDependencies": {
+    "commitizen": "^3.0.4",
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
