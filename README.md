@@ -229,6 +229,8 @@ We could set it up in CI system.
 
 Generate changelog from git commit messages.
 
+We use a tool named [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli)
+
 ### Installation
 
 ```sh
