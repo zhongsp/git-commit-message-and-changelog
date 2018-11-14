@@ -227,6 +227,8 @@ We could set it up in CI system.
 
 ## Changelog
 
+Generate changelog from git commit messages.
+
 ### Installation
 
 ```sh
