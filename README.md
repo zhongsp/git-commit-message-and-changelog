@@ -1,6 +1,11 @@
 # Git Commit Message to Changelog
 
-This's inspired by Angular community.
+This's inspired by the Angular community.
+
+We'll use a tool named [`Commitizen`](http://commitizen.github.io/cz-cli/),
+together with some helper libs.
+
+We should also define some cumtom git commit message guidelines for a project.
 
 ## Installation
 
