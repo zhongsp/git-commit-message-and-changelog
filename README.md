@@ -241,3 +241,13 @@ npm install conventional-changelog-cli --save-dev
 # https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli
 npx conventional-changelog -p commit-msg-2-changelog -i CHANGELOG.md -s
 ```
+
+### Recommended workflow
+- Make changes
+- Commit those changes
+- Make sure Travis turns green
+- Bump version in package.json
+- conventionalChangelog
+- Commit package.json and CHANGELOG.md files
+- Tag
+- Push
