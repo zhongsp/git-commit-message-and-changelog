@@ -1,3 +1,9 @@
+## <small>1.0.2 (2018-11-14)</small>
+
+* docs(readme): update readme ([9ac3e03](https://github.com/zhongsp/git-commit-to-changelog/commit/9ac3e03))
+
+
+
 ## <small>1.0.1 (2018-11-14)</small>
 
 * docs(changelog): update changelog ([870179a](https://github.com/zhongsp/git-commit-to-changelog/commit/870179a))
